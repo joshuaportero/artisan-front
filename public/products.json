@@ -1,0 +1,32 @@
+[
+  [
+    {
+      "product_id": 1,
+      "category_id": "laptop",
+      "name": "Dell XPS 15 - Intel i9 13th Gen, 64GB RAM, 1TB SSD, NVIDIA RTX 4070",
+      "description": "Un portátil de alto rendimiento con diseño premium, ideal para profesionales creativos y gamers.",
+      "price": 2500
+    },
+    {
+      "product_id": 2,
+      "category_id": "smartphone",
+      "name": "Samsung Galaxy S24 Ultra - 512GB, 12GB RAM, Cámara 200MP",
+      "description": "Smartphone insignia con tecnología avanzada y una cámara de calidad profesional.",
+      "price": 1200
+    },
+    {
+      "product_id": 3,
+      "category_id": "tablet",
+      "name": "Apple iPad Pro M2 - 2TB, 16GB RAM, 12.9\" Liquid Retina",
+      "description": "El iPad más potente hasta ahora, diseñado para productividad y creatividad.",
+      "price": 1800
+    },
+    {
+      "product_id": 4,
+      "category_id": "monitor",
+      "name": "LG UltraGear 34\" Curved QHD - 165Hz, 1ms, G-Sync Compatible",
+      "description": "Monitor ultrapanorámico curvo con alta tasa de refresco para una experiencia de juego inmersiva.",
+      "price": 900
+    }
+  ]
+]
